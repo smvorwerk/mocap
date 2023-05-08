@@ -1,0 +1,15 @@
+{
+	"appId": "com.need4steve.mpmocap",
+	"productName": "MP Motion Capture App",
+	"directories": {
+		"output": "dist"
+	},
+	"files": [
+		"src/electron.cjs",
+		"src/preload.cjs",
+		{
+			"from": "build",
+			"to": ""
+		}
+	]
+}

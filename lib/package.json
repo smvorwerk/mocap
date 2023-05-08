@@ -1,0 +1,11 @@
+{
+  "name": "mp-mocap-lib",
+  "version": "0.0.1",
+  "description": "MP Motion Capture is a tool that allows you to perform facial motion capture from any device and location.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@skeletonlabs/skeleton": "^1.2.5"
+  }
+}

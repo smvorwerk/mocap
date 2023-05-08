@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+plugins/unreal/MP Motion Capture/Binaries/
+plugins/unreal/MP Motion Capture/DerivedDataCache/
+plugins/unreal/MP Motion Capture/Intermediate/
+plugins/unreal/MP Motion Capture/Saved/
+plugins/unreal/MP Motion Capture/Build/
